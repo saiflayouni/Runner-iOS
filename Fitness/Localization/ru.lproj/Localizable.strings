@@ -1,0 +1,97 @@
+/* No comment provided by engineer. */
+"App Settings" = "Настройки приложения";
+
+/* No comment provided by engineer. */
+"Confirm" = "Продолжить";
+
+/* No comment provided by engineer. */
+"Continue" = "Подтвердить";
+
+/* No comment provided by engineer. */
+"Display name will be generated each time you open the app." = "Отображаемое имя будет генерироваться каждый раз, когда вы открываете приложение.";
+
+/* No comment provided by engineer. */
+"Please confirm language that you want to use in this app." = "Пожалуйста, подтвердите язык, который будет использоваться в этом приложении.";
+
+/* No comment provided by engineer. */
+"Please, choose your language" = "Пожалуйста, выберите язык";
+
+/* No comment provided by engineer. */
+"Confirm Display Name" = "Подтвердите отображаемое имя";
+
+/* No comment provided by engineer. */
+"This name is unchangable" = "Это имя неизменяемо";
+
+/* No comment provided by engineer. */
+"Welcome to P2P Talk" = "Добро пожаловать в P2P Talk";
+
+/* No comment provided by engineer. */
+"Select" = "Выбрать";
+
+/* No comment provided by engineer. */
+"English" = "Английский";
+
+/* No comment provided by engineer. */
+"Russian" = "Русский";
+
+///* No comment provided by engineer. */
+"People Nearby" = "Пользователи";
+
+///* No comment provided by engineer. */
+"Chat" = "Чат";
+
+///* No comment provided by engineer. */
+"Settings" = "Настройки";
+
+/////* No comment provided by engineer. */
+"Cancel" = "Отмена";
+
+/////* No comment provided by engineer. */
+"Done" = "Готово";
+
+"Set language" = "Установить язык";
+
+"Get Started" = "Начать";
+
+"Anonymous display name" = "Анонимное отображаемое имя";
+
+"Display name" = "Отображаемое имя";
+
+"Complete" = "Завершить";
+
+"Accept" = "Принять";
+
+"Close" = "Закрыть";
+
+"Type something" = "Напишите что-нибудь";
+
+"Privacy" = "Конфиденциальность";
+
+"Privacy Policy" = "Политика конфиденциальности";
+
+"Language" = "Язык";
+
+"Local Network Access" = "Доступ к локальной сети";
+
+"Some features of P2P Talk use your device's preferred language." = "Некоторые функции P2P Talk используют предпочтительный язык вашего устройства.";
+
+"P2P Talk requires Local Network access to function. Please ensure Local Network is enabled." = "Для работы P2P Talk требуется доступ к локальной сети. Убедитесь, что локальная сеть включена.";
+
+"Decline" = "Отклонить";
+
+"New Invitation" = "Новое приглашение";
+
+"would like to connect" = "хотел бы подключиться";
+
+"Leave Chat" = "Вы покидаете беседу";
+
+"Are you sure you want to leave the chat?" = "Вы уверены, что хотите покинуть беседу?";
+
+"No" = "Нет";
+
+"Yes" = "Да";
+
+"No peer connected" = "Чат не активен";
+
+"Connected to %@" = "Чат с %@";
+
